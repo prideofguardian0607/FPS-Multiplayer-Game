@@ -1,0 +1,1420 @@
+﻿Log file open, 03/10/22 06:16:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: dev
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.760640
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin SteamShared
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogSteamShared: Display: Loading Steam SDK 1.51
+LogSteamShared: Steam SDK Loaded!
+LogOnline: OSS: Creating online subsystem instance for: Steam
+LogSteamShared: Warning: SteamAPI failed to initialize, conditions not met.
+LogOnline: Warning: STEAM: Steamworks: SteamUtils() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamUser() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamFriends() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamRemoteStorage() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamUserStats() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamMatchmakingServers() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamApps() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamNetworking() failed!
+LogOnline: Warning: STEAM: Steamworks: SteamMatchmaking() failed!
+LogOnline: STEAM: [AppId: 0] Client API initialized 0
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: Warning: STEAM: Steam API failed to initialize!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogOnline: OSS: Unable to create OnlineSubsystem module Steam
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -game
+LogInit: Base Directory: D:/programs/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Engine.ini]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Engine.ini]
+[2022.03.10-03.16.09:617][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Engine.ini]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Engine.ini]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.10-03.16.09:617][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Engine.ini]
+[2022.03.10-03.16.09:617][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Engine.ini]
+[2022.03.10-03.16.09:625][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Scalability.ini]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Scalability.ini]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Scalability.ini]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Scalability.ini]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.10-03.16.09:625][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Scalability.ini]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Scalability.ini]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Scalability.ini]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Scalability.ini]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.10-03.16.09:626][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.10-03.16.09:626][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.10-03.16.09:626][  0]LogHAL: Display: Platform has ~ 16 GB [17093799936 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.10-03.16.09:626][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.10-03.16.09:626][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Scalability.ini]
+[2022.03.10-03.16.09:626][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Scalability.ini]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Scalability.ini]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Scalability.ini]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Scalability.ini]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Scalability.ini]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.10-03.16.09:627][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Scalability.ini]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Scalability.ini]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.10-03.16.09:628][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Engine.ini]
+[2022.03.10-03.16.09:628][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/GO.ON/Downloads/dev/dev/Saved/Config/Windows/Editor.ini]
+[2022.03.10-03.16.09:628][  0]LogInit: Computer: DESKTOP-7HPQ9C2
+[2022.03.10-03.16.09:628][  0]LogInit: User: GOON
+[2022.03.10-03.16.09:628][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.03.10-03.16.09:628][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.10-03.16.09:628][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.03.10-03.16.09:628][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.10-03.16.09:628][  0]LogMemory: Process Physical Memory: 143.03 MB used, 143.03 MB peak
+[2022.03.10-03.16.09:628][  0]LogMemory: Process Virtual Memory: 127.93 MB used, 127.93 MB peak
+[2022.03.10-03.16.09:628][  0]LogMemory: Physical Memory: 7617.50 MB used,  8684.41 MB free, 16301.92 MB total
+[2022.03.10-03.16.09:628][  0]LogMemory: Virtual Memory: 134206520.00 MB used,  11206.75 MB free, 134217728.00 MB total
+[2022.03.10-03.16.09:633][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.10-03.16.09:651][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.10-03.16.09:651][  0]LogInit: Using OS detected language (en-US).
+[2022.03.10-03.16.09:651][  0]LogInit: Using OS detected locale (en-US).
+[2022.03.10-03.16.09:653][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.03.10-03.16.09:835][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.10-03.16.09:857][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.10-03.16.09:857][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.10-03.16.10:161][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.03.10-03.16.10:165][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.03.10-03.16.10:165][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.10-03.16.10:165][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.10-03.16.10:165][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.10-03.16.10:253][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2022.03.10-03.16.10:253][  0]LogD3D11RHI:       128/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2022.03.10-03.16.10:256][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.10-03.16.10:256][  0]LogD3D11RHI:       0/0/8150 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.10-03.16.10:256][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.03.10-03.16.10:256][  0]LogD3D11RHI:     Description : Intel(R) HD Graphics 530
+[2022.03.10-03.16.10:256][  0]LogD3D11RHI:     VendorId    : 8086
+[2022.03.10-03.16.10:256][  0]LogD3D11RHI:     DeviceId    : 1912
+[2022.03.10-03.16.10:256][  0]LogD3D11RHI:     SubSysId    : 22128086
+[2022.03.10-03.16.10:256][  0]LogD3D11RHI:     Revision    : 0006
+[2022.03.10-03.16.10:256][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2022.03.10-03.16.10:256][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.10-03.16.10:256][  0]LogD3D11RHI:     SharedSystemMemory : 8546899968 bytes
+[2022.03.10-03.16.10:256][  0]LogD3D11RHI:     AdapterLuid : 0 48013
+[2022.03.10-03.16.10:260][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.10-03.16.10:260][  0]LogD3D11RHI:     GPU DeviceId: 0x1912 (for the marketing name, search the web for "GPU Device Id")
+[2022.03.10-03.16.10:260][  0]LogWindows: EnumDisplayDevices:
+[2022.03.10-03.16.10:260][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2022.03.10-03.16.10:260][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2022.03.10-03.16.10:260][  0]LogWindows: DebugString: FoundDriverCount:2 
+[2022.03.10-03.16.10:260][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 530
+[2022.03.10-03.16.10:260][  0]LogD3D11RHI:   Driver Version: 27.20.100.8681 (internal:27.20.100.8681, unified:27.20.100.8681)
+[2022.03.10-03.16.10:260][  0]LogD3D11RHI:      Driver Date: 9-5-2020
+[2022.03.10-03.16.10:261][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2022.03.10-03.16.10:272][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.03.10-03.16.10:272][  0]LogD3D11RHI:     Description : Intel(R) HD Graphics 530
+[2022.03.10-03.16.10:272][  0]LogD3D11RHI:     VendorId    : 8086
+[2022.03.10-03.16.10:272][  0]LogD3D11RHI:     DeviceId    : 1912
+[2022.03.10-03.16.10:272][  0]LogD3D11RHI:     SubSysId    : 22128086
+[2022.03.10-03.16.10:272][  0]LogD3D11RHI:     Revision    : 0006
+[2022.03.10-03.16.10:272][  0]LogD3D11RHI:     DedicatedVideoMemory : 134217728 bytes
+[2022.03.10-03.16.10:272][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.03.10-03.16.10:272][  0]LogD3D11RHI:     SharedSystemMemory : 8546899968 bytes
+[2022.03.10-03.16.10:272][  0]LogD3D11RHI:     AdapterLuid : 0 48013
+[2022.03.10-03.16.10:348][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2022.03.10-03.16.10:400][  0]LogD3D11RHI: Intel Extensions support version Full=16777216, Major=1, Minor=0, Revision=0
+[2022.03.10-03.16.10:400][  0]LogD3D11RHI: Intel Extensions support version Full=16777217, Major=1, Minor=0, Revision=1
+[2022.03.10-03.16.10:401][  0]LogD3D11RHI: Intel Extensions Framework enabled
+[2022.03.10-03.16.10:401][  0]LogD3D11RHI: [IntelMetricsDiscovery] Started
+[2022.03.10-03.16.10:401][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.10-03.16.10:401][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.03.10-03.16.10:409][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2022.03.10-03.16.10:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.10-03.16.10:904][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.10-03.16.10:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.10-03.16.10:912][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.10-03.16.10:912][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.10-03.16.10:919][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.10-03.16.10:945][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.03.10-03.16.10:975][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.10-03.16.10:976][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (C:/Users/GO.ON/Downloads/dev/dev/Intermediate/Shaders/WorkingDirectory/8356/).
+[2022.03.10-03.16.10:976][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/GO.ON/AppData/Local/Temp/UnrealShaderWorkingDir/82EB0AF34E832089D351DA9D87A906BB/'.
+[2022.03.10-03.16.10:976][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.03.10-03.16.10:976][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.10-03.16.10:976][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.10-03.16.11:773][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.10-03.16.11:834][  0]LogDerivedDataCache: Loaded boot cache 0.06s 90MB C:/Users/GO.ON/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.10-03.16.11:834][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/GO.ON/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.03.10-03.16.11:834][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/GO.ON/Downloads/dev/dev/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.10-03.16.11:834][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.10-03.16.11:834][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/GO.ON/Downloads/dev/dev/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.10-03.16.11:834][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.10-03.16.11:851][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.10-03.16.11:851][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.10-03.16.11:851][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.10-03.16.11:948][  0]LogDerivedDataCache: Speed tests for C:/Users/GO.ON/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.10 seconds
+[2022.03.10-03.16.11:948][  0]LogDerivedDataCache: Display: Performance to C:/Users/GO.ON/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.03ms. RandomReadSpeed=1202.54MBs, RandomWriteSpeed=9.82MBs. Assigned SpeedClass 'Local'
+[2022.03.10-03.16.11:952][  0]LogDerivedDataCache: Using Local data cache path C:/Users/GO.ON/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.10-03.16.11:952][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.10-03.16.11:952][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.10-03.16.11:997][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.10-03.16.11:998][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.10-03.16.11:998][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.03.10-03.16.12:147][  0]LogInit: Using OS detected language (en-US).
+[2022.03.10-03.16.12:147][  0]LogInit: Using OS detected locale (en-US).
+[2022.03.10-03.16.12:147][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.03.10-03.16.12:147][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2022.03.10-03.16.12:147][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.03.10-03.16.12:147][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2022.03.10-03.16.12:151][  0]LogTextLocalizationManager: Compacting localization data took   0.01ms
+[2022.03.10-03.16.12:151][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2022.03.10-03.16.12:453][  0]LogPackageLocalizationCache: Processed 25 localized package path(s) for 1 prioritized culture(s) in 0.133573 seconds
+[2022.03.10-03.16.12:515][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.10-03.16.12:515][  0]LogInit: Active device profile: [0000017425377200][000001741DCA0B80 49] Windows
+[2022.03.10-03.16.12:515][  0]LogInit: Profiles: [0000017425377200][000001741DCA0B80 49] Windows, [000001742532D000][000001741DCA8D00 49] WindowsNoEditor, [0000017425375000][000001741DCACE80 49] WindowsServer, [000001742532EC00][000001741DCB1000 49] WindowsClient, [0000017425376B00][000001741DD59180 49] IOS, [000001742532D700][000001741DD5D300 49] iPadAir, [0000017425375600][000001741DD61480 49] iPadAir2, [00000174252D7D00][000001741DD656C0 49] IPadPro, [00000174252D7E00][000001741DCA5700 49] iPadAir3, [0000017425376700][000001741DD69840 49] iPadAir4, [00000174252D5500][000001741DDC59C0 49] iPadMini2, [0000017425375900][000001741DDC9B40 49] iPadMini3, [00000174252D6600][000001741DDCC140 49] iPadMini4, [0000017425377600][000001741DDD02C0 49] iPadMini5, [000001742530B600][000001741DDD8580 49] iPhone6, [000001742530B700][000001741DDD45C0 49] iPodTouch6, [00000174252D4300][000001741DDE0880 49] iPhone7, [00000174252D4200][000001741DDDC8C0 49] iPodTouch7, [0000017425309400][000001741DDE4A40 49] iPhone5S, [00000174252D7C00][000001741DDE8BC0 49] iPhone6Plus, [000001742530A700][000001741DDECD40 49] iPhone6S, [00000174252D7B00][000001741DDF0EC0 49] iPhone6SPlus, [0000017425309A00][000001741DDF5040 49] iPhone7Plus, [00000174252D7700][000001741DDF91C0 49] iPhoneSE, [000001742530BB00][000001741DDFD340 49] iPhone8, [00000174252D5600][000001741DE014C0 49] iPhone8Plus, [0000017425309800][000001741DE05640 49] iPhoneX, [00000174252D7F00][000001741DD6D780 49] iPhoneXS, [0000017425308B00][000001741DE098C0 49] iPhoneXSMax, [00000174252D6A00][000001741DE0DA00 49] iPhoneXR, [000001742530BC00][000001741DAE9B40 49] iPhone11, [00000174252D6C00][000001741DAF0140 49] iPhone11Pro, [000001742530A800][000001741DAF42C0 49] iPhone11ProMax, [00000174252D5B00][000001741DAF8440 49] iPhoneSE2, [000001742530A500][000001741DAFC5C0 49] iPhone12Mini, [00000174252D4F00][000001741DB00740 49] iPhone12, [000001742530AB00][000001741DB048C0 49] iPhone12Pro, [00000174252D6000][000001741DB08A40 49] iPhone12ProMax, [000001742530AA00][000001741DB0CBC0 49] iPadPro105, [00000174252D7800][000001741DB10D40 49] iPadPro129, [0000017425309C00][000001741DB14EC0 49] iPadPro97, [00000174252D5300][000001741DB19040 49] iPadPro2_129, [000001742530AD00][000001741DB1D1C0 49] iPad5, [00000174252D7100][000001741DB21340 49] iPad6, [0000017425308500][000001741DB254C0 49] iPad7, [00000174252D5100][000001741DB29640 49] iPad8, [000001742530B300][000001741DB2D7C0 49] iPadPro11, [00000174252D4700][000001741DAED900 49] iPadPro2_11, [0000017425309D00][000001741DB31A40 49] iPadPro3_129, [00000174252D7A00][000001741DB35B80 49] iPadPro4_129, [0000017425308400][000001741DB38140 49] AppleTV, [00000174252D7300][000001741D4322C0 49] AppleTV4K, [0000017425308800][000001741D436440 49] TVOS, [00000174252D6B00][000001741D43A5C0 49] Mac, [000001742530B800][000001741D43E740 49] MacClient, [00000174252D6400][000001741D4428C0 49] MacNoEditor, [000001742530A200][000001741D446A40 49] MacServer, [00000174252D5F00][000001741D44ABC0 49] Linux, [000001742532E700][000001741D44ED40 49] LinuxAArch64, [00000174253C0A00][000001741D452EC0 49] LinuxNoEditor, [000001742532C700][000001741D457040 49] LinuxAArch64NoEditor, [00000174253C1A00][000001741D45B1C0 49] LinuxClient, [000001742532D500][000001741D45F340 49] LinuxAArch64Client, [00000174253C0D00][000001741D4634C0 49] LinuxServer, [000001742532D100][000001741D467640 49] LinuxAArch64Server, [00000174253C1900][000001741D46B7C0 49] Android, [000001742532E400][000001741D46F940 49] Android_Low, [00000174253C1800][000001741D473AC0 49] Android_Mid, [000001742532D200][000001741DB3DC00 49] Android_High, [00000174253C1100][000001741D4761C0 49] Android_Default, [000001742532E800][000001741D47A300 49] Android_Adreno4xx, [00000174253C1B00][000001741D482480 49] Android_Adreno5xx_Low, [000001742532D800][000001741D486600 49] Android_Adreno5xx, [00000174253C0F00][000001741D48A780 49] Android_Adreno6xx, [000001742532CC00][000001741D48E900 49] Android_Adreno6xx_Vulkan, [00000174253C0C00][000001741D492A80 49] Android_Mali_T6xx, [000001742532FF00][000001741D496C00 49] Android_Mali_T7xx, [00000174253C0700][000001741D49AD80 49] Android_Mali_T8xx, [000001742532F200][000001741D49EF00 49] Android_Mali_G71, [00000174253C1200][000001741D4A3080 49] Android_Mali_G72, [00000174252D6100][000001741D4A7200 49] Android_Mali_G72_Vulkan, [0000017425308700][000001741D4AB380 49] Android_Mali_G76, [00000174252D4900][000001741D4AF500 49] Android_Mali_G76_Vulkan, [0000017425309600][000001741D4B3680 49] Android_Mali_G77, [00000174252D7500][000001741D4B7800 49] Android_Mali_G77_Vulkan, [000001742530A600][000001741D4BB980 49] Android_Mali_G78, [00000174252D4500][000001741D4BFB00 49] Android_Mali_G78_Vulkan, [000001742530B500][000001741D4C2100 49] Android_Mali_G710, [00000174252D4100][000001741D47E240 49] Android_Mali_G710_Vulkan, [000001742530BF00][000001741D4C6380 49] Android_Vulkan_SM5, [00000174252D6300][000001741D4CA4C0 49] Android_PowerVR_G6xxx, [0000017425308C00][000001741D4D2640 49] Android_PowerVR_GT7xxx, [00000174252D5E00][000001741D4D67C0 49] Android_PowerVR_GE8xxx, [000001742530B000][000001741D4DA940 49] Android_PowerVR_GM9xxx, [00000174252D4400][000001741D4DEAC0 49] Android_PowerVR_GM9xxx_Vulkan, [0000017425309900][000001741D4E2C40 49] Android_TegraK1, [00000174252D5A00][000001741D4E6DC0 49] Android_Unknown_Vulkan, [0000017425308900][000001741D4EAF40 49] Lumin, [00000174252D6800][000001741D4EF0C0 49] Lumin_Desktop, [00000174253C1300][000001741D4F3240 49] HoloLens, 
+[2022.03.10-03.16.12:537][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.10-03.16.12:537][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.10-03.16.12:537][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.10-03.16.12:537][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.10-03.16.12:537][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.10-03.16.12:640][  0]LogNetVersion: dev 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3763182595)
+[2022.03.10-03.16.12:874][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.03.10-03.16.12:985][  0]LogMoviePlayer: Initializing movie player
+[2022.03.10-03.16.13:057][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 833A81EF418F5C233E5852B97F797DFD | Instance: 639E8A9E4B92F33F9E6B819BA4C23EDC (DESKTOP-7HPQ9C2-8356).
+[2022.03.10-03.16.13:077][  0]LogCollectionManager: Loaded 0 collections in 0.005582 seconds
+[2022.03.10-03.16.13:079][  0]LogFileCache: Scanning file cache for directory 'C:/Users/GO.ON/Downloads/dev/dev/Saved/Collections/' took 0.00s
+[2022.03.10-03.16.13:079][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.03.10-03.16.13:157][  0]LogFileCache: Scanning file cache for directory 'C:/Users/GO.ON/Downloads/dev/dev/Content/Developers/GOON/Collections/' took 0.00s
+[2022.03.10-03.16.13:157][  0]LogFileCache: Scanning file cache for directory 'C:/Users/GO.ON/Downloads/dev/dev/Content/Collections/' took 0.00s
+[2022.03.10-03.16.13:157][  0]LogPython: Using Python 3.7.7
+[2022.03.10-03.16.13:676][  0]SourceControl: Source control is disabled
+[2022.03.10-03.16.13:676][  0]SourceControl: Source control is disabled
+[2022.03.10-03.16.13:677][  0]SourceControl: Source control is disabled
+[2022.03.10-03.16.13:681][  0]LogUProjectInfo: Found projects:
+[2022.03.10-03.16.13:726][  0]LogOpenImageDenoise: OIDN starting up
+[2022.03.10-03.16.13:730][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.10-03.16.13:737][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.10-03.16.13:737][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.10-03.16.13:783][  0]LogUObjectArray: 21772 objects as part of root set at end of initial load.
+[2022.03.10-03.16.13:783][  0]LogUObjectAllocator: 5875200 out of 0 bytes used by permanent object pool.
+[2022.03.10-03.16.13:783][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.10-03.16.13:819][  0]LogEngine: Initializing Engine...
+[2022.03.10-03.16.13:820][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.03.10-03.16.13:820][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.10-03.16.13:821][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.10-03.16.13:912][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.10-03.16.13:912][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.10-03.16.13:913][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.03.10-03.16.13:917][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.10-03.16.13:917][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.10-03.16.13:918][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.10-03.16.13:918][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.10-03.16.13:918][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.10-03.16.13:918][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.10-03.16.13:918][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.10-03.16.13:918][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.10-03.16.13:918][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.10-03.16.13:918][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.10-03.16.13:919][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.03.10-03.16.13:919][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.03.10-03.16.13:919][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.03.10-03.16.13:919][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.10-03.16.13:934][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.10-03.16.13:934][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.10-03.16.13:948][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2022.03.10-03.16.13:951][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.10-03.16.13:952][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.10-03.16.13:952][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.10-03.16.13:953][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.10-03.16.13:953][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.10-03.16.13:954][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.10-03.16.13:954][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.10-03.16.13:954][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.10-03.16.13:954][  0]LogInit: FAudioDevice initialized.
+[2022.03.10-03.16.13:956][  0]LogNetVersion: Set ProjectVersion to 4.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.10-03.16.19:096][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/GO.ON/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.03.10-03.16.19:101][  0]LogInit: Texture streaming: Enabled
+[2022.03.10-03.16.19:211][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/UltimateMenu/Blueprints/Data/SaveGames/SaveGame_UltimateMenuSystem.SaveGame_UltimateMenuSystem_C:Gameplay'. Unknown structure.
+[2022.03.10-03.16.19:215][  0]LogClass: Warning: Property Gameplay of Gameplay has a struct type mismatch (tag STRUCT_REINST_Struct_GameSave_38 != prop FallbackStruct) in package:  C:/Users/GO.ON/Downloads/dev/dev/Content/UltimateMenu/Blueprints/Data/SaveGames/SaveGame_UltimateMenuSystem.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.03.10-03.16.19:240][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/UltimateMenu/Blueprints/Data/Libraries/FL_UltimateMenuSystem.FL_UltimateMenuSystem_C:Load_GameplaySettings:ReturnValue'. Unknown structure.
+[2022.03.10-03.16.19:488][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/UltimateMenu/UserInterface/Examples/InGame/WB_PausedGameplaySettings.WB_PausedGameplaySettings_C:ExecuteUbergraph_WB_PausedGameplaySettings:CallFunc_Load_GameplaySettings_ReturnValue'. Unknown structure.
+[2022.03.10-03.16.19:488][  0]LogProperty: Error: FStructProperty::Serialize Loading: Property 'StructProperty /Game/UltimateMenu/UserInterface/Examples/InGame/WB_PausedGameplaySettings.WB_PausedGameplaySettings_C:ExecuteUbergraph_WB_PausedGameplaySettings:CallFunc_Load_GameplaySettings_ReturnValue_1'. Unknown structure.
+[2022.03.10-03.16.21:654][  0]LogClass: Warning: Property Gameplay of Gameplay has a struct type mismatch (tag FallbackStruct != prop Struct_GameSave) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2022.03.10-03.16.22:340][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.10-03.16.22:340][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-03.16.22:341][  0]LogInit: Display: Game Engine Initialized.
+[2022.03.10-03.16.22:341][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2022.03.10-03.16.22:380][  0]LogInit: Display: Starting Game.
+[2022.03.10-03.16.22:380][  0]LogNet: Browse: /Game/UltimateMenu/Environment/Maps/MenuEmpty?Name=Player
+[2022.03.10-03.16.22:380][  0]LogLoad: LoadMap: /Game/UltimateMenu/Environment/Maps/MenuEmpty?Name=Player
+[2022.03.10-03.16.22:380][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2022.03.10-03.16.22:382][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-03.16.22:382][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-03.16.22:400][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.10-03.16.22:424][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.03.10-03.16.22:472][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MenuEmpty'.
+[2022.03.10-03.16.22:478][  0]LogAIModule: Creating AISystem for world MenuEmpty
+[2022.03.10-03.16.22:478][  0]LogLoad: Game class is 'GM_MenuMode_C'
+[2022.03.10-03.16.22:479][  0]LogWorld: Bringing World /Game/UltimateMenu/Environment/Maps/MenuEmpty.MenuEmpty up for play (max tick rate 120) at 2022.03.10-06.16.22
+[2022.03.10-03.16.22:480][  0]LogWorld: Bringing up level for play took: 0.000736
+[2022.03.10-03.16.22:481][  0]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.03.10-03.16.22:481][  0]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.03.10-03.16.22:488][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:488][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:565][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:565][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:565][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:566][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:566][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:566][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:566][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:566][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:575][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:575][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:575][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:575][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:575][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:575][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:575][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:575][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:575][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:575][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:575][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:575][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:575][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:575][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:593][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:593][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:603][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:604][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:604][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:604][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:605][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:605][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:605][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:609][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:609][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:648][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:648][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:648][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:649][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:649][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:686][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:686][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:686][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:686][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:688][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:688][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:688][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:688][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:690][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:690][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:690][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:690][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:692][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:692][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:692][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:692][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:701][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:701][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:723][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:723][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:723][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:723][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:749][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:749][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:749][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:749][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:749][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:749][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:749][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:749][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:750][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:750][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:750][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:750][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:801][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:801][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:905][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:905][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:906][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:906][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:906][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:907][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:907][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:908][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:908][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:908][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:911][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:911][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:911][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:911][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:911][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:911][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:911][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:911][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:911][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:911][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:915][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:915][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:958][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:958][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:959][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:959][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:959][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:967][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:967][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:967][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:967][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:967][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:967][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:967][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:967][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:967][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:967][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:967][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.22:967][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.23:013][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.23:019][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.23:020][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.23:023][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.23:034][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.23:060][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.23:075][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.23:082][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.23:084][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.23:088][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.23:089][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.23:096][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.23:105][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.23:132][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.23:145][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.23:181][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.23:183][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.23:209][  0]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.16.23:213][  0]LogLevel: ActivateLevel /Game/UltimateMenu/Environment/Maps/MenuLevel 1 1 0
+[2022.03.10-03.16.23:214][  0]LogLoad: Took 0.833679 seconds to LoadMap(/Game/UltimateMenu/Environment/Maps/MenuEmpty)
+[2022.03.10-03.16.23:252][  0]LogSlate: Took 0.000158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.10-03.16.23:266][  0]LogUObjectGlobals: BeginLoad(/Engine/EditorResources/SequenceRecorder/Countdown) is flushing async loading
+[2022.03.10-03.16.23:266][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2022.03.10-03.16.23:565][  0]LogRenderer: Reallocating scene render targets to support 1536x864 Format 10 NumSamples 1 (Frame:1).
+[2022.03.10-03.16.23:574][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.10-03.16.23:574][  0]LogLoad: (Engine Initialization) Total time: 16.32 seconds
+[2022.03.10-03.16.23:574][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.10-03.16.27:666][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.10-03.16.27:670][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-03.16.28:986][  1]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.10-03.16.28:990][  2]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.03.10-03.16.28:990][  2]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.03.10-03.17.03:174][469]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.17.03:180][469]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.17.04:539][490]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.17.04:547][490]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.17.04:548][490]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.17.04:548][490]LogSlate: UBorder::SetBrushFromMaterial.  Incoming material is null
+[2022.03.10-03.17.18:293][667]LogPackageName: SearchForPackageOnDisk took   0.389s to resolve FreeForAll.umap.
+[2022.03.10-03.17.18:633][667]LogPackageName: SearchForPackageOnDisk took   0.340s to resolve FreeForAll.umap.
+[2022.03.10-03.17.18:633][667]LogNet: Browse: /Game/FPS/Maps/FreeForAll
+[2022.03.10-03.17.18:633][667]LogLoad: LoadMap: /Game/FPS/Maps/FreeForAll
+[2022.03.10-03.17.18:634][667]LogWorld: BeginTearingDown for /Game/UltimateMenu/Environment/Maps/MenuEmpty
+[2022.03.10-03.17.18:686][667]LogWorld: UWorld::CleanupWorld for MenuEmpty, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-03.17.18:686][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-03.17.18:686][667]LogWorld: UWorld::CleanupWorld for MenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-03.17.18:687][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-03.17.18:723][667]LogAudio: Display: Waited 35.773502 ms for audio thread.
+[2022.03.10-03.17.18:723][667]LogAudio: Display: Waited 35.995800 ms for audio thread.
+[2022.03.10-03.17.18:743][667]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.10-03.17.18:757][667]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2022.03.10-03.17.23:172][667]LogAudio: Display: Audio Device (ID: 1) registered with world 'FreeForAll'.
+[2022.03.10-03.17.23:173][667]LogAIModule: Creating AISystem for world FreeForAll
+[2022.03.10-03.17.23:176][667]LogLoad: Game class is 'BP_FreeForAll_GM_C'
+[2022.03.10-03.17.23:204][667]LogWorld: Bringing World /Game/FPS/Maps/FreeForAll.FreeForAll up for play (max tick rate 120) at 2022.03.10-06.17.23
+[2022.03.10-03.17.23:205][667]LogWorld: Bringing up level for play took: 0.027303
+[2022.03.10-03.17.23:219][667]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> DoNotLock
+[2022.03.10-03.17.23:219][667]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2022.03.10-03.17.23:219][667]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.10-03.17.23:220][667]LogStreaming: Warning: Failed to read file 'C:/Users/GO.ON/Downloads/dev/dev/Saved/SaveGames/Slot_01.sav' error.
+[2022.03.10-03.17.23:221][667]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.10-03.17.23:222][667]LogLoad: Took 4.588540 seconds to LoadMap(/Game/FPS/Maps/FreeForAll)
+[2022.03.10-03.17.30:563][726]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2022.03.10-03.17.31:756][747]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.10-03.17.31:757][747]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.10-03.17.35:672][815]LogStreaming: Warning: Failed to read file 'C:/Users/GO.ON/Downloads/dev/dev/Saved/SaveGames/Slot_01.sav' error.
+[2022.03.10-03.17.35:783][815]LogStreaming: Warning: Failed to read file 'C:/Users/GO.ON/Downloads/dev/dev/Saved/SaveGames/Slot_01.sav' error.
+[2022.03.10-03.18.20:814][630]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.03.10-03.18.20:814][630]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.03.10-03.19.10:888][474]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.03.10-03.19.10:889][474]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.03.10-03.19.14:808][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-03.19.14:810][542]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter_C:GetPlayerWithMostDamageDone'!
+[2022.03.10-03.19.14:812][542]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2022.03.10-03.19.15:140][542]LogPackageName: SearchForPackageOnDisk took   0.327s to resolve MainMenu.umap.
+[2022.03.10-03.19.15:140][542]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.03.10-03.19.15:140][542]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.03.10-03.19.15:447][542]LogPackageName: SearchForPackageOnDisk took   0.307s to resolve MainMenu.umap.
+[2022.03.10-03.19.15:447][542]LogNet: Browse: /Game/FPS/Maps/MainMenu
+[2022.03.10-03.19.15:447][542]LogLoad: LoadMap: /Game/FPS/Maps/MainMenu
+[2022.03.10-03.19.15:447][542]LogWorld: BeginTearingDown for /Game/FPS/Maps/FreeForAll
+[2022.03.10-03.19.15:449][542]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2022.03.10-03.19.15:450][542]LogWorld: UWorld::CleanupWorld for FreeForAll, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-03.19.15:453][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-03.19.15:522][542]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.10-03.19.16:541][542]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2022.03.10-03.19.20:446][542]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.03.10-03.19.20:447][542]LogAIModule: Creating AISystem for world MainMenu
+[2022.03.10-03.19.20:447][542]LogLoad: Game class is 'BP_Base_GM_C'
+[2022.03.10-03.19.20:452][542]LogWorld: Bringing World /Game/FPS/Maps/MainMenu.MainMenu up for play (max tick rate 120) at 2022.03.10-06.19.20
+[2022.03.10-03.19.20:453][542]LogWorld: Bringing up level for play took: 0.003615
+[2022.03.10-03.19.20:455][542]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2022.03.10-03.19.20:455][542]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.10-03.19.20:455][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-03.19.20:456][542]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.03.10-03.19.20:456][542]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2022.03.10-03.19.20:456][542]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2022.03.10-03.19.20:457][542]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.10-03.19.20:457][542]LogLoad: Took 5.009202 seconds to LoadMap(/Game/FPS/Maps/MainMenu)
+[2022.03.10-03.19.20:462][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-03.19.20:464][543]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.10-03.19.27:622][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-03.19.27:945][625]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.10-03.19.27:946][625]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.10-03.19.39:006][820]LogPackageName: SearchForPackageOnDisk took   0.326s to resolve Conquest.umap.
+[2022.03.10-03.19.39:008][821]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.03.10-03.19.39:008][821]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.03.10-03.19.39:323][821]LogPackageName: SearchForPackageOnDisk took   0.314s to resolve Conquest.umap.
+[2022.03.10-03.19.39:323][821]LogNet: Browse: /Game/FPS/Maps/Conquest
+[2022.03.10-03.19.39:323][821]LogLoad: LoadMap: /Game/FPS/Maps/Conquest
+[2022.03.10-03.19.39:323][821]LogWorld: BeginTearingDown for /Game/FPS/Maps/MainMenu
+[2022.03.10-03.19.39:324][821]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2022.03.10-03.19.39:324][821]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-03.19.39:324][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-03.19.39:407][821]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.10-03.19.39:442][821]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2022.03.10-03.19.43:399][821]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2022.03.10-03.19.43:486][821]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.10-03.19.43:486][821]LogTexture: Display: Building textures: HQ_Lightmap1_10 (OODLE_AutoDXT, 1024X1024)
+[2022.03.10-03.19.43:511][821]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.10-03.19.43:511][821]LogTexture: Display: Building textures: HQ_Lightmap1_11 (OODLE_AutoDXT, 1024X1024)
+[2022.03.10-03.19.43:527][821]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.10-03.19.43:527][821]LogTexture: Display: Building textures: HQ_Lightmap1_12 (OODLE_AutoDXT, 128X128)
+[2022.03.10-03.19.43:538][821]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 1024X1024)
+[2022.03.10-03.19.43:561][821]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.10-03.19.43:561][821]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 1024X1024)
+[2022.03.10-03.19.43:583][821]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.10-03.19.43:583][821]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 1024X1024)
+[2022.03.10-03.19.43:605][821]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.10-03.19.43:605][821]LogTexture: Display: Building textures: HQ_Lightmap1_5 (OODLE_AutoDXT, 1024X1024)
+[2022.03.10-03.19.43:627][821]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.10-03.19.43:627][821]LogTexture: Display: Building textures: HQ_Lightmap1_6 (OODLE_AutoDXT, 1024X1024)
+[2022.03.10-03.19.43:649][821]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.10-03.19.43:649][821]LogTexture: Display: Building textures: HQ_Lightmap1_7 (OODLE_AutoDXT, 1024X1024)
+[2022.03.10-03.19.43:670][821]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.10-03.19.43:670][821]LogTexture: Display: Building textures: HQ_Lightmap1_8 (OODLE_AutoDXT, 1024X1024)
+[2022.03.10-03.19.43:690][821]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.10-03.19.43:690][821]LogTexture: Display: Building textures: HQ_Lightmap1_9 (OODLE_AutoDXT, 1024X1024)
+[2022.03.10-03.19.43:710][821]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.03.10-03.19.43:710][821]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2022.03.10-03.19.43:960][821]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.10-03.19.43:960][821]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (OODLE_DXT1, 1024X1024)
+[2022.03.10-03.19.43:980][821]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.10-03.19.43:980][821]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (OODLE_DXT1, 1024X1024)
+[2022.03.10-03.19.43:995][821]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.10-03.19.43:995][821]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (OODLE_DXT1, 128X128)
+[2022.03.10-03.19.44:004][821]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 1024X1024)
+[2022.03.10-03.19.44:026][821]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.10-03.19.44:026][821]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 1024X1024)
+[2022.03.10-03.19.44:048][821]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.10-03.19.44:049][821]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 1024X1024)
+[2022.03.10-03.19.44:069][821]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.10-03.19.44:069][821]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (OODLE_DXT1, 1024X1024)
+[2022.03.10-03.19.44:088][821]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.10-03.19.44:088][821]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (OODLE_DXT1, 1024X1024)
+[2022.03.10-03.19.44:107][821]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.10-03.19.44:107][821]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (OODLE_DXT1, 1024X1024)
+[2022.03.10-03.19.44:125][821]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.10-03.19.44:125][821]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (OODLE_DXT1, 1024X1024)
+[2022.03.10-03.19.44:144][821]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.10-03.19.44:144][821]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (OODLE_DXT1, 1024X1024)
+[2022.03.10-03.19.44:159][821]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.03.10-03.19.44:159][821]LogTexture: Display: Building textures: NewReflectionComponentTexture4CF72BDB45489E6FA1046BA5E664E1C2 (BGRA8, 128X128)
+[2022.03.10-03.19.44:164][821]LogTexture: Display: Building textures: NewReflectionComponentTextureE30FC01C434CB86BA14352BFA152CF02 (BGRA8, 128X128)
+[2022.03.10-03.19.44:766][821]LogAudio: Display: Audio Device (ID: 1) registered with world 'Conquest'.
+[2022.03.10-03.19.44:767][821]LogAIModule: Creating AISystem for world Conquest
+[2022.03.10-03.19.44:768][821]LogLoad: Game class is 'BP_Conquest_GM_C'
+[2022.03.10-03.19.45:170][821]LogWorld: Bringing World /Game/FPS/Maps/Conquest.Conquest up for play (max tick rate 120) at 2022.03.10-06.19.45
+[2022.03.10-03.19.45:171][821]LogWorld: Bringing up level for play took: 0.401334
+[2022.03.10-03.19.45:181][821]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2022.03.10-03.19.45:181][821]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.10-03.19.45:183][821]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.10-03.19.45:185][821]LogLoad: Took 5.861583 seconds to LoadMap(/Game/FPS/Maps/Conquest)
+[2022.03.10-03.19.45:195][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-03.19.45:197][822]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.10-03.19.53:082][894]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.10-03.19.53:082][894]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.10-03.20.01:455][  2]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.03.10-03.20.01:455][  2]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.03.10-03.20.17:085][207]LogScript: Warning: Script Msg: BP_AI_Character_B_C_0 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.17:196][209]LogScript: Warning: Script Msg: BP_AI_Character_A_C_0 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.17:196][209]LogScript: Warning: Script Msg: BP_AI_Character_A_C_0 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.17:251][210]LogScript: Warning: Script Msg: BP_AI_Character_B_C_0 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.17:252][210]LogScript: Warning: Script Msg: BP_AI_Character_B_C_0 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.17:252][210]LogScript: Warning: Script Msg: BP_AI_Character_B_C_0 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.17:252][210]LogScript: Warning: Script Msg: BP_AI_Character_B_C_0 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.17:252][210]LogScript: Warning: Script Msg: BP_AI_Character_B_C_0 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.17:365][212]LogScript: Warning: Script Msg: BP_AI_Character_B_C_0 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.22:308][246]LogScript: Warning: Script Msg: BP_AI_Character_B_C_3 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.22:308][246]LogScript: Warning: Script Msg: BP_AI_Character_B_C_3 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.22:308][246]LogScript: Warning: Script Msg: BP_AI_Character_B_C_3 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.23:199][261]LogScript: Warning: Script Msg: BP_AI_Character_B_C_3 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.23:199][261]LogScript: Warning: Script Msg: BP_AI_Character_B_C_3 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.23:858][272]LogScript: Warning: Script Msg: BP_AI_Character_A_C_2 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.23:859][272]LogScript: Warning: Script Msg: BP_AI_Character_A_C_2 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.23:980][274]LogScript: Warning: Script Msg: BP_AI_Character_A_C_2 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.23:980][274]LogScript: Warning: Script Msg: BP_AI_Character_A_C_2 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.24:043][275]LogScript: Warning: Script Msg: BP_AI_Character_A_C_2 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.27:872][338]LogScript: Warning: Script Msg: BP_AI_Character_A_C_0 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.27:998][340]LogScript: Warning: Script Msg: BP_AI_Character_A_C_3 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.27:998][340]LogScript: Warning: Script Msg: BP_AI_Character_A_C_3 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.28:186][343]LogScript: Warning: Script Msg: BP_AI_Character_A_C_3 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.28:186][343]LogScript: Warning: Script Msg: BP_AI_Character_A_C_3 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.29:388][346]LogScript: Warning: Script Msg: BP_AI_Character_A_C_3 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.29:423][347]LogScript: Warning: Script Msg: BP_AI_Character_B_C_2 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.29:423][347]LogScript: Warning: Script Msg: BP_AI_Character_B_C_2 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.29:743][352]LogScript: Warning: Script Msg: BP_AI_Character_B_C_2 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.29:743][352]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter_C:GetPlayerWithMostDamageDone'!
+[2022.03.10-03.20.31:150][375]LogScript: Warning: Script Msg: BP_AI_Character_B_C_1 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.31:150][375]LogScript: Warning: Script Msg: BP_AI_Character_B_C_1 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.31:733][385]LogScript: Warning: Script Msg: BP_AI_Character_B_C_1 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.31:733][385]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter_C:GetPlayerWithMostDamageDone'!
+[2022.03.10-03.20.37:142][477]LogScript: Warning: Script Msg: BP_AI_Character_B_C_4 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.37:142][477]LogScript: Warning: Script Msg: BP_AI_Character_B_C_4 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.37:256][479]LogScript: Warning: Script Msg: BP_AI_Character_A_C_3 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.41:925][564]LogScript: Warning: Script Msg: BP_AI_Character_A_C_1 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.41:925][564]LogScript: Warning: Script Msg: BP_AI_Character_A_C_1 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.42:141][568]LogScript: Warning: Script Msg: BP_AI_Character_B_C_4 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.45:754][633]LogScript: Warning: Script Msg: BP_AI_Character_B_C_5 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.45:872][635]LogScript: Warning: Script Msg: BP_AI_Character_A_C_1 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.48:332][678]LogScript: Warning: Script Msg: BP_AI_Character_B_C_5 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.48:333][678]LogScript: Warning: Script Msg: BP_AI_Character_B_C_5 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.48:504][681]LogScript: Warning: Script Msg: BP_AI_Character_B_C_5 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.48:848][687]LogScript: Warning: Script Msg: BP_AI_Character_B_C_5 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.50:785][722]LogScript: Warning: Script Msg: BP_AI_Character_B_C_7 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.50:785][722]LogScript: Warning: Script Msg: BP_AI_Character_B_C_7 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.51:111][728]LogScript: Warning: Script Msg: BP_AI_Character_B_C_7 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.51:111][728]LogScript: Warning: Script Msg: BP_AI_Character_B_C_7 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.51:112][728]LogScript: Warning: Script Msg: BP_AI_Character_A_C_4 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.51:112][728]LogScript: Warning: Script Msg: BP_AI_Character_A_C_4 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.51:274][731]LogScript: Warning: Script Msg: BP_AI_Character_B_C_7 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.51:275][731]LogScript: Warning: Script Msg: BP_AI_Character_B_C_7 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.51:275][731]LogScript: Warning: Script Msg: BP_AI_Character_A_C_4 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.51:328][732]LogScript: Warning: Script Msg: BP_AI_Character_A_C_4 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.51:328][732]LogScript: Warning: Script Msg: BP_AI_Character_A_C_4 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.51:600][737]LogScript: Warning: Script Msg: BP_AI_Character_B_C_7 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.51:600][737]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter_C:GetPlayerWithMostDamageDone'!
+[2022.03.10-03.20.52:789][759]LogScript: Warning: Script Msg: BP_AI_Character_B_C_6 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.53:490][772]LogScript: Warning: Script Msg: BP_AI_Character_B_C_6 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.53:491][772]LogScript: Warning: Script Msg: BP_AI_Character_B_C_6 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.53:662][775]LogScript: Warning: Script Msg: BP_AI_Character_B_C_6 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.53:662][775]LogScript: Warning: Script Msg: BP_AI_Character_B_C_6 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.53:662][775]LogScript: Warning: Script Msg: BP_AI_Character_B_C_6 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.54:017][781]LogScript: Warning: Script Msg: BP_AI_Character_B_C_6 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.55:579][807]LogScript: Warning: Script Msg: BP_AI_Character_B_C_8 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.55:581][807]LogScript: Warning: Script Msg: BP_AI_Character_B_C_8 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.55:581][807]LogScript: Warning: Script Msg: BP_AI_Character_B_C_8 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.55:934][813]LogScript: Warning: Script Msg: BP_AI_Character_B_C_8 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.56:108][816]LogScript: Warning: Script Msg: BP_AI_Character_B_C_8 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.56:231][818]LogScript: Warning: Script Msg: BP_AI_Character_A_C_4 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.56:291][819]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter_C:GetPlayerWithMostDamageDone'!
+[2022.03.10-03.20.58:693][860]LogScript: Warning: Script Msg: BP_AI_Character_A_C_5 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.58:855][863]LogScript: Warning: Script Msg: BP_AI_Character_A_C_5 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.58:856][863]LogScript: Warning: Script Msg: BP_AI_Character_A_C_5 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.59:019][866]LogScript: Warning: Script Msg: BP_AI_Character_A_C_5 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.59:247][870]LogScript: Warning: Script Msg: BP_AI_Character_B_C_8 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.20.59:247][870]LogScript: Warning: Script Msg: BP_AI_Character_B_C_8 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.21.03:336][941]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.03.10-03.21.03:336][941]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.03.10-03.21.05:516][977]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2022.03.10-03.21.05:639][979]LogScript: Warning: Script Msg: BP_AI_Character_A_C_5 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.21.06:155][987]LogScript: Warning: Script Msg: BP_AI_Character_B_C_9 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.21.06:540][993]LogScript: Warning: Script Msg: BP_AI_Character_B_C_9 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.21.06:540][993]LogScript: Warning: Script Msg: BP_AI_Character_B_C_9 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.21.06:920][999]LogScript: Warning: Script Msg: BP_AI_Character_B_C_9 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.21.06:920][999]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter_C:GetPlayerWithMostDamageDone'!
+[2022.03.10-03.21.08:439][ 23]LogScript: Warning: Script Msg: BP_AI_Character_B_C_10 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.21.08:440][ 23]LogScript: Warning: Script Msg: BP_AI_Character_B_C_10 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.21.08:627][ 26]LogScript: Warning: Script Msg: BP_AI_Character_A_C_6 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.21.08:628][ 26]LogScript: Warning: Script Msg: BP_AI_Character_A_C_6 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.21.08:944][ 31]LogScript: Warning: Script Msg: BP_AI_Character_A_C_6 ActivateRegenHealth SetTimer passed a negative or zero time. The associated timer may fail to be created/fire! If using InitialStartDelayVariance, be sure it is smaller than (Time + InitialStartDelay).
+[2022.03.10-03.21.08:944][ 31]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_Map_Keys_Keys' of length 0 in '/Game/FPS/Blueprints/CharacterAndClasses/BP_PlayerCharacter.BP_PlayerCharacter_C:GetPlayerWithMostDamageDone'!
+[2022.03.10-03.21.10:298][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-03.21.10:298][ 52]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2022.03.10-03.21.10:679][ 52]LogPackageName: SearchForPackageOnDisk took   0.380s to resolve MainMenu.umap.
+[2022.03.10-03.21.10:679][ 52]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2022.03.10-03.21.10:679][ 52]LogGameState: Match State Changed from InProgress to LeavingMap
+[2022.03.10-03.21.10:986][ 52]LogPackageName: SearchForPackageOnDisk took   0.307s to resolve MainMenu.umap.
+[2022.03.10-03.21.10:986][ 52]LogNet: Browse: /Game/FPS/Maps/MainMenu
+[2022.03.10-03.21.10:986][ 52]LogLoad: LoadMap: /Game/FPS/Maps/MainMenu
+[2022.03.10-03.21.10:986][ 52]LogWorld: BeginTearingDown for /Game/FPS/Maps/Conquest
+[2022.03.10-03.21.10:987][ 52]LogScript: Warning: Script Msg: DestroySession - Invalid player state
+[2022.03.10-03.21.10:988][ 52]LogWorld: UWorld::CleanupWorld for Conquest, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-03.21.10:993][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-03.21.11:069][ 52]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.10-03.21.11:135][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.03.10-03.21.15:036][ 52]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2022.03.10-03.21.15:037][ 52]LogAIModule: Creating AISystem for world MainMenu
+[2022.03.10-03.21.15:038][ 52]LogLoad: Game class is 'BP_Base_GM_C'
+[2022.03.10-03.21.15:042][ 52]LogWorld: Bringing World /Game/FPS/Maps/MainMenu.MainMenu up for play (max tick rate 120) at 2022.03.10-06.21.15
+[2022.03.10-03.21.15:043][ 52]LogWorld: Bringing up level for play took: 0.003250
+[2022.03.10-03.21.15:045][ 52]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2022.03.10-03.21.15:045][ 52]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.10-03.21.15:045][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-03.21.15:046][ 52]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2022.03.10-03.21.15:046][ 52]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2022.03.10-03.21.15:046][ 52]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2022.03.10-03.21.15:047][ 52]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.03.10-03.21.15:047][ 52]LogLoad: Took 4.060388 seconds to LoadMap(/Game/FPS/Maps/MainMenu)
+[2022.03.10-03.21.15:051][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-03.21.15:053][ 53]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.10-03.21.22:518][135]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.03.10-03.21.22:519][135]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.03.10-03.21.24:810][179]Closing by request
+[2022.03.10-03.21.24:810][179]LogWindows: FPlatformMisc::RequestExit(0)
+[2022.03.10-03.21.24:810][179]LogWindows: FPlatformMisc::RequestExitWithStatus(0, 0)
+[2022.03.10-03.21.24:810][179]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.03.10-03.21.24:861][180]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.03.10-03.21.24:861][180]LogInit: Display: PreExit Game.
+[2022.03.10-03.21.24:862][180]LogWorld: BeginTearingDown for /Game/FPS/Maps/MainMenu
+[2022.03.10-03.21.24:863][180]LogOnlineSession: Warning: OSS: Can't destroy a null online session (GameSession)
+[2022.03.10-03.21.24:863][180]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-03.21.24:864][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-03.21.24:995][180]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.03.10-03.21.24:995][180]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.03.10-03.21.24:995][180]LogAudio: Display: Audio Device unregistered from world 'MainMenu'.
+[2022.03.10-03.21.24:996][180]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.10-03.21.24:997][180]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.03.10-03.21.25:000][180]LogAudio: Display: Audio Device Manager Shutdown
+[2022.03.10-03.21.25:005][180]LogSlate: Window 'dev (64-bit Development PCD3D_SM5) ' being destroyed
+[2022.03.10-03.21.25:005][180]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.10-03.21.25:021][180]LogExit: Preparing to exit.
+[2022.03.10-03.21.25:092][180]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2022.03.10-03.21.25:147][180]LogMoviePlayer: Shutting down movie player
+[2022.03.10-03.21.25:208][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.10-03.21.25:289][180]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.03.10-03.21.25:294][180]LogExit: Game engine shut down
+[2022.03.10-03.21.25:423][180]LogExit: Object subsystem successfully closed.
+[2022.03.10-03.21.25:432][180]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.03.10-03.21.25:432][180]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.03.10-03.21.25:432][180]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.03.10-03.21.25:432][180]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.03.10-03.21.25:432][180]LogShaderCompilers: Display: ================================================
+[2022.03.10-03.21.25:442][180]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module AnimGraph (548)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (546)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module SequenceRecorder (544)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module AutomationController (542)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module AutomationWorker (540)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module Voice (538)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module AIModule (536)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module GameplayDebugger (535)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module AITestSuite (533)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module NavigationSystem (531)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module OpenXRInput (528)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (526)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module TakeRecorder (525)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (522)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module TakesCore (520)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module PlanarCut (518)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (516)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (514)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module WebMMedia (512)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (510)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (508)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (506)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (502)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (500)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module SessionServices (498)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (496)
+[2022.03.10-03.21.25:450][180]LogModuleManager: Shutting down and abandoning module LiveCoding (494)
+[2022.03.10-03.21.25:451][180]LogModuleManager: Shutting down and abandoning module LevelSequence (492)
+[2022.03.10-03.21.25:451][180]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (490)
+[2022.03.10-03.21.25:451][180]LogModuleManager: Shutting down and abandoning module MovieScene (488)
+[2022.03.10-03.21.25:451][180]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (486)
+[2022.03.10-03.21.25:451][180]LogModuleManager: Shutting down and abandoning module PortalServices (484)
+[2022.03.10-03.21.25:451][180]LogModuleManager: Shutting down and abandoning module PortalRpc (482)
+[2022.03.10-03.21.25:451][180]LogModuleManager: Shutting down and abandoning module MessagingRpc (480)
+[2022.03.10-03.21.25:451][180]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (478)
+[2022.03.10-03.21.25:451][180]LogModuleManager: Shutting down and abandoning module AudioMixerCore (477)
+[2022.03.10-03.21.25:451][180]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (474)
+[2022.03.10-03.21.25:451][180]LogModuleManager: Shutting down and abandoning module ProfilerService (472)
+[2022.03.10-03.21.25:667][180]LogModuleManager: Shutting down and abandoning module TaskGraph (470)
+[2022.03.10-03.21.25:667][180]LogModuleManager: Shutting down and abandoning module Synthesis (468)
+[2022.03.10-03.21.25:667][180]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (466)
+[2022.03.10-03.21.25:667][180]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (464)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module GooglePAD (462)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module TakeMovieScene (460)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module EditableMesh (458)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module CableComponent (456)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (454)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module AudioCapture (452)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (451)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module AssetTags (448)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (446)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (444)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module AppleImageUtils (442)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module AndroidPermission (440)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (438)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module MotoSynth (436)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (434)
+[2022.03.10-03.21.25:668][180]LogOpenImageDenoise: OIDN shutting down
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module MeshConversion (432)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module DynamicMesh (430)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (428)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module GeometricObjects (426)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module MediaCompositing (424)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module ImgMedia (422)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module TemplateSequence (420)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (418)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (417)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (414)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (413)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module GeometryCache (410)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (409)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module ChaosNiagara (406)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (405)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module BackChannel (402)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module AutomationUtils (400)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (398)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (396)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (394)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module HotReload (393)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (390)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module UObjectPlugin (388)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (386)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (384)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (382)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (380)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (378)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module SourceControl (377)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (374)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (372)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (370)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (368)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (366)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (364)
+[2022.03.10-03.21.25:668][180]LogModuleManager: Shutting down and abandoning module LiveLink (362)
+[2022.03.10-03.21.25:835][180]LogModuleManager: Shutting down and abandoning module SoundFields (360)
+[2022.03.10-03.21.25:835][180]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (358)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module SignificanceManager (356)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (354)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (352)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (348)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (346)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (344)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (342)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (340)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module ActorSequence (338)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module UdpMessaging (336)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module TcpMessaging (334)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (332)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (330)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (328)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (326)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (324)
+[2022.03.10-03.21.25:836][180]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (322)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (320)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (318)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (316)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module MagicLeapController (314)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (312)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module MagicLeapAR (310)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (308)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module AnimationSharing (306)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (304)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module FacialAnimation (302)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (300)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module TreeMap (299)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (296)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module Niagara (294)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module SignalProcessing (293)
+[2022.03.10-03.21.25:836][180]LogModuleManager: Shutting down and abandoning module NiagaraEditor (291)
+[2022.03.10-03.21.25:837][180]LogModuleManager: Shutting down and abandoning module ContentBrowser (290)
+[2022.03.10-03.21.25:837][180]LogModuleManager: Shutting down and abandoning module CollectionManager (289)
+[2022.03.10-03.21.25:837][180]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (288)
+[2022.03.10-03.21.25:837][180]LogModuleManager: Shutting down and abandoning module ContentBrowserData (285)
+[2022.03.10-03.21.25:837][180]LogModuleManager: Shutting down and abandoning module NiagaraCore (280)
+[2022.03.10-03.21.25:837][180]LogModuleManager: Shutting down and abandoning module GameplayCameras (278)
+[2022.03.10-03.21.25:837][180]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (276)
+[2022.03.10-03.21.25:837][180]LogModuleManager: Shutting down and abandoning module Paper2D (274)
+[2022.03.10-03.21.25:837][180]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (272)
+[2022.03.10-03.21.25:837][180]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (270)
+[2022.03.10-03.21.25:838][180]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (268)
+[2022.03.10-03.21.25:838][180]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (266)
+[2022.03.10-03.21.25:838][180]LogModuleManager: Shutting down and abandoning module PacketHandler (264)
+[2022.03.10-03.21.25:838][180]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (262)
+[2022.03.10-03.21.25:838][180]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (260)
+[2022.03.10-03.21.25:838][180]LogModuleManager: Shutting down and abandoning module MediaAssets (258)
+[2022.03.10-03.21.25:838][180]LogModuleManager: Shutting down and abandoning module Overlay (256)
+[2022.03.10-03.21.25:838][180]LogModuleManager: Shutting down and abandoning module OverlayEditor (255)
+[2022.03.10-03.21.25:838][180]LogModuleManager: Shutting down and abandoning module VREditor (252)
+[2022.03.10-03.21.25:838][180]LogModuleManager: Shutting down and abandoning module StringTableEditor (250)
+[2022.03.10-03.21.25:838][180]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (248)
+[2022.03.10-03.21.25:838][180]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (246)
+[2022.03.10-03.21.25:838][180]LogModuleManager: Shutting down and abandoning module FunctionalTesting (244)
+[2022.03.10-03.21.25:838][180]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (242)
+[2022.03.10-03.21.25:838][180]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (241)
+[2022.03.10-03.21.25:838][180]LogModuleManager: Shutting down and abandoning module UMG (238)
+[2022.03.10-03.21.25:838][180]LogModuleManager: Shutting down and abandoning module UMGEditor (237)
+[2022.03.10-03.21.25:838][180]LogModuleManager: Shutting down and abandoning module Sequencer (236)
+[2022.03.10-03.21.25:838][180]LogModuleManager: Shutting down and abandoning module MessageLog (233)
+[2022.03.10-03.21.25:838][180]LogModuleManager: Shutting down and abandoning module SlateReflector (228)
+[2022.03.10-03.21.25:839][180]LogModuleManager: Shutting down and abandoning module Slate (226)
+[2022.03.10-03.21.25:839][180]LogModuleManager: Shutting down and abandoning module SlateCore (224)
+[2022.03.10-03.21.25:839][180]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (222)
+[2022.03.10-03.21.25:839][180]LogModuleManager: Shutting down and abandoning module UnrealEd (220)
+[2022.03.10-03.21.25:839][180]LogModuleManager: Shutting down and abandoning module MRMesh (218)
+[2022.03.10-03.21.25:839][180]LogModuleManager: Shutting down and abandoning module Messaging (216)
+[2022.03.10-03.21.25:839][180]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2022.03.10-03.21.25:839][180]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2022.03.10-03.21.25:839][180]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2022.03.10-03.21.25:839][180]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2022.03.10-03.21.25:839][180]LogModuleManager: Shutting down and abandoning module Core (206)
+[2022.03.10-03.21.25:839][180]LogModuleManager: Shutting down and abandoning module MaterialEditor (204)
+[2022.03.10-03.21.25:839][180]LogModuleManager: Shutting down and abandoning module MovieSceneTools (202)
+[2022.03.10-03.21.25:840][180]LogModuleManager: Shutting down and abandoning module EditorStyle (201)
+[2022.03.10-03.21.25:840][180]LogModuleManager: Shutting down and abandoning module KismetCompiler (198)
+[2022.03.10-03.21.25:840][180]LogModuleManager: Shutting down and abandoning module MeshBuilder (196)
+[2022.03.10-03.21.25:840][180]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2022.03.10-03.21.25:840][180]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2022.03.10-03.21.25:840][180]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2022.03.10-03.21.25:840][180]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2022.03.10-03.21.25:840][180]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2022.03.10-03.21.25:840][180]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2022.03.10-03.21.25:840][180]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2022.03.10-03.21.25:840][180]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2022.03.10-03.21.25:840][180]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2022.03.10-03.21.25:840][180]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (174)
+[2022.03.10-03.21.25:840][180]LogModuleManager: Shutting down and abandoning module DerivedDataCache (172)
+[2022.03.10-03.21.25:840][180]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2022.03.10-03.21.25:840][180]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (159)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (157)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (155)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (153)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (151)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (149)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (147)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module ImageWrapper (146)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (143)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (141)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (139)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (137)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (135)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (133)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (131)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module D3D11RHI (128)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module InputCore (126)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module Settings (124)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module PhysXCooking (122)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module Chaos (120)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (118)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (117)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module AVEncoder (116)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (112)
+[2022.03.10-03.21.25:841][180]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (110)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module OpenXRAR (108)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module AugmentedReality (107)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module OpenXRHMD (104)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (102)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module ChunkDownloader (100)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (98)
+[2022.03.10-03.21.25:841][180]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (94)
+[2022.03.10-03.21.25:842][180]LogModuleManager: Shutting down and abandoning module SteamShared (88)
+[2022.03.10-03.21.25:842][180]LogSteamShared: Freeing the Steam Loaded Modules...
+[2022.03.10-03.21.25:842][180]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2022.03.10-03.21.25:842][180]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2022.03.10-03.21.25:869][180]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2022.03.10-03.21.25:869][180]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2022.03.10-03.21.25:898][180]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2022.03.10-03.21.25:899][180]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2022.03.10-03.21.25:901][180]LogModuleManager: Shutting down and abandoning module Media (75)
+[2022.03.10-03.21.25:902][180]LogModuleManager: Shutting down and abandoning module MediaInfo (74)
+[2022.03.10-03.21.25:902][180]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (70)
+[2022.03.10-03.21.25:902][180]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (68)
+[2022.03.10-03.21.25:902][180]LogModuleManager: Shutting down and abandoning module ChaosCloth (66)
+[2022.03.10-03.21.25:902][180]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2022.03.10-03.21.25:902][180]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2022.03.10-03.21.25:902][180]LogModuleManager: Shutting down and abandoning module PixWinPlugin (60)
+[2022.03.10-03.21.25:902][180]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (58)
+[2022.03.10-03.21.25:902][180]LogModuleManager: Shutting down and abandoning module NiagaraShader (56)
+[2022.03.10-03.21.25:902][180]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2022.03.10-03.21.25:902][180]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2022.03.10-03.21.25:902][180]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2022.03.10-03.21.25:902][180]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2022.03.10-03.21.25:902][180]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2022.03.10-03.21.25:903][180]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2022.03.10-03.21.25:903][180]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2022.03.10-03.21.25:903][180]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2022.03.10-03.21.25:903][180]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2022.03.10-03.21.25:903][180]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2022.03.10-03.21.25:903][180]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2022.03.10-03.21.25:903][180]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2022.03.10-03.21.25:903][180]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2022.03.10-03.21.25:903][180]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2022.03.10-03.21.25:903][180]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2022.03.10-03.21.25:903][180]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2022.03.10-03.21.25:903][180]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2022.03.10-03.21.25:903][180]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.03.10-03.21.25:903][180]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.03.10-03.21.25:903][180]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.03.10-03.21.25:903][180]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.03.10-03.21.25:903][180]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.03.10-03.21.25:903][180]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.03.10-03.21.25:903][180]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.03.10-03.21.25:903][180]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.03.10-03.21.25:903][180]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.03.10-03.21.25:903][180]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.03.10-03.21.25:903][180]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2022.03.10-03.21.25:915][180]LogD3D11RHI: Shutdown
+[2022.03.10-03.21.25:915][180]LogD3D11RHI: CleanupD3DDevice
+[2022.03.10-03.21.25:956][180]LogD3D11RHI: Intel Extensions Framework unloaded
+[2022.03.10-03.21.25:960][180]LogD3D11RHI: [IntelMetricsDiscovery] Stopped
+[2022.03.10-03.21.25:960][180]LogExit: Exiting.
+[2022.03.10-03.21.26:002][180]Log file closed, 03/10/22 06:21:26
